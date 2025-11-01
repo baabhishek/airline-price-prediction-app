@@ -1,4 +1,5 @@
 #  Travel Domain : Airline Flight Price Prediction End to End Project
+![Airline_Project_Travel_Domain_EasemyTrip_Dataset_Banner](https://images.emtcontent.com/emt-mate/content/img/IndiGo-Airline-10-dec-25-b2b-desk.webp)
 
 ##  Overview
 In the travel industry, **flight prices fluctuate almost every hour** — driven by countless factors like airline, route, duration, and demand.  
