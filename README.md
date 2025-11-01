@@ -1,6 +1,6 @@
-# ✈️ Airline Price Prediction App
+#  Travel Domain : Airline Flight Price Prediction End to End Project
 
-## 📖 Overview
+##  Overview
 In the travel industry, **flight prices fluctuate almost every hour** — driven by countless factors like airline, route, duration, and demand.  
 This project aims to predict flight prices using **Machine Learning** to enable smarter travel planning and data-driven business decisions.
 
@@ -47,7 +47,9 @@ Over the past few days, I worked on building an **end-to-end Airline Price Predi
 ---
 
 ##  Live App
-👉 [Click here to view the deployed app](https://baabhishek-flight-price-app.streamlit.app/#flight-price-prediction-app)
+ # [Click here to the app](https://baabhishek-flight-price-app.streamlit.app/#flight-price-prediction-app)
+
+<img width="1440" height="798" alt="Image" src="https://github.com/user-attachments/assets/36a460b9-506e-4025-862e-db2340339db7" />
 
 ---
 
